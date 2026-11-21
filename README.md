@@ -137,7 +137,7 @@ If you use this testbed or build on these findings:
   title  = {Load- and Content-Aware Write Gating for Delta-Rule Memory},
   author = {Your Name},
   year   = {2026},
-  url    = {https://github.com/<you>/load-aware-write-gating}
+  url    = {https://github.com/Naico-qy/load-aware-write-gating}
 }
 ```
 
